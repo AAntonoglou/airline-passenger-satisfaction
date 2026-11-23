@@ -64,4 +64,4 @@ Below are the consolidated results sorted by **F1-score** on the test set (compr
 - `Informes_Conclusiones/`
   - `Informe_TP6_Machine_Learning.pdf` - Report containing business and technical conclusions of the ML models.
   - `Informe_TP8_Deep_Learning.pdf` - Report containing business and technical conclusions comparing ML vs. DL.
-- `test_tp6:8.csv` and 'train_tp6:*' - Database used for the project.
+- `test_tp6:8.csv` and 'train_tp6:8.csv' - Database used for the project.
